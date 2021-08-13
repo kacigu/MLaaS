@@ -17,3 +17,7 @@ A few more will be added soon:
 
 - Image Classification
 - Object Detection
+
+## Recommendation Systems
+
+- Top-K Recommendation
